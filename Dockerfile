@@ -1,3 +1,3 @@
-FROM ubuntu:20.04
+FROM ubuntu
 
-RUN echo "hello"
+CMD top

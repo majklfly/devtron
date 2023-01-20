@@ -1,3 +1,3 @@
 FROM ubuntu
 
-CMD top
+CMD top -b
